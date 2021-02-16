@@ -1,0 +1,4 @@
+baseURL = "https://pdfmusic-player55.vercel.app"
+languageCode = "en-us"
+title = "PDF Sheet Music Player"
+theme = "hugo-theme-minos"
